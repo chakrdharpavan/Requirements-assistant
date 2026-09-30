@@ -6,7 +6,7 @@ def generate_answer(question, documents):
     answer = "I found the following information:\n\n"
 
     for document in documents:
-        answer += document["content"][:500]
+        answer += document["content"]
         answer += "\n\n"
 
     return answer
