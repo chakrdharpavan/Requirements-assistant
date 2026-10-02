@@ -51,17 +51,19 @@ Add an ability, after completing the projects users can delete old data and pres
 Before deleting their old data in our cloud send an email,  saying that we are deleting your old data.
 
 
-
-
 Prioritization:-
 
-Rank      Feature                            Reason                            Impact        Effort
+P1 – Fix UI/Performance Issues
 
-P1        Fix UI/performance issues    Directly affects customers              High          2days
-P2        Enhancement                  Helps customers manage older projects   Medium        1day
-P3        Email notification          Keeps customers informed before deleting Low           0.5day
+Reason: Directly affects customers
+Impact: High
+Effort: 2 days
 
+P2 – Enhancement
 
+Reason: Helps customers manage older projects
+Impact: Medium
+Effort: 1 day
 
 
 Experiment/Rollout:-
@@ -75,13 +77,9 @@ If the new version performs better without introducing new issues, gradually rol
 
 Success Metrics:-
 
-Metrics                              Targets
-
-30-day Customer Retention          Increase by 10%
-Project Feature Usage              Increase by 15%
-UI Loading Time                    Reduce by at least 30%
-Error Rate                         Reduce by 20%
-Customer Feedback                  Improve after the fix
+30-Day Customer Retention: Increase by 10%
+Error Rate: Reduce by 20%
+Customer Feedback: Improve after implementing the fix
 
 
 
