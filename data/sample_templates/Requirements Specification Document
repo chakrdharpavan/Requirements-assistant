@@ -1,7 +1,9 @@
 Online Pharmacy Management System 
 
 
-Business Requirement:- The business requirement document outlines stakeholders, scope, Business requirements and constraints etc. The current process completely requires human intervention. After bringing out this new feature, the human intervention will decrease and mitigate lot of time & effort
+Business Requirement:- The business requirement document outlines stakeholders, scope, 
+Business requirements and constraints etc. The current process completely requires human intervention. 
+After bringing out this new feature, the human intervention will decrease and mitigate lot of time & effort
 
 - This document is intended to Admin, pharmacist, delivery agent and pharmacy owner
 
@@ -25,26 +27,15 @@ Customers:- William
 Payment Gateway associate:- Sultan
 
 
-REQ1:- The platform shall create user registration and login, where user will register with their emails and afterwards login in to the website
-
-
+REQ1:- The platform shall create user registration and login, where user will register with their emails and afterwards login in to the website=
 REQ2:- The platform shall provide a search box to search medicines with their relevant search names
-
 REQ3:- The platform shall enable user to upload prescription 
-
 REQ4:- The platform shall cater required access to pharmacist where they will approve prescriptions and reject prescriptions
-
 REQ5:- The platform shall create a delivery tracking system, where users & admin department can track their delivery 
-
-
 REQ6:- The system shall handle manage stores, generate reports after purchasing medicines 
-
 REQ7:- The system shall maintain stocks and if item is near by expiry date an notification should show on UI
-
 REQ8:- The system shall send an email after delivery with detailed bill
-
 REQ9:- The system shall create daily sales reports, fast moving products, this data will be sent to admin department
-
 REQ10:- The system shall create a suggestion if the product is not available and say "similar product is available although the company may vary”
 
 Scope:-
@@ -65,7 +56,6 @@ Discounts if the purchase order goes beyond 1000 rupees
 If a person joins with another referral code, an initial order will be 5% discount
 Medicine subscription plans
 
-
 Constraints:-
 
 The product should be delivered within one day
@@ -74,7 +64,9 @@ All the development script should be kept in one repository
 
 Problem Statement:-
 
-Currently users depend completely on manual intervention. Customers have to visit the store physically to purchase medicines, although after developing this application, customers can order their medicines online and get them delivered by doorstep.
+Currently users depend completely on manual intervention. 
+Customers have to visit the store physically to purchase medicines, although after developing this application, 
+customers can order their medicines online and get them delivered by doorstep.
 
 Success Criteria:-
 
